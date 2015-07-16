@@ -13,7 +13,8 @@ if(process.argv.length < 3) {
 var targetFolder = path.resolve(process.argv[2]);
 
 var m = new pkgm({
-    engine: "codebox",
+    'engine': "codebox",
+    'lessInclude': path.resolve(__dirname, "../node_modules/codebox/editor/resources/stylesheets/variables.less"),
 });
 
 m.loadPackage(targetFolder)
