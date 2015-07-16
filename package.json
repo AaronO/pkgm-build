@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": {
+    "pkgm-build": "./bin/pkgm-build.js"
+  },
   "keywords": [
     "pkgm",
     "build",
