@@ -1,0 +1,19 @@
+{
+  "name": "pkgm-build",
+  "version": "0.0.0",
+  "description": "Build cli tool for pkgm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pkgm",
+    "build",
+    "cli"
+  ],
+  "author": "Aaron O'Mullan <aaron.omullan@gmail.com>",
+  "license": "Apache 2",
+  "dependencies": {
+    "pkgm": "^3.3.0"
+  }
+}
