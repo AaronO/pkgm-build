@@ -5,7 +5,7 @@ Simple CLI tool to build pkgm packages.
 ### Install
 
 ```
-npm i -g pknm-build
+npm i -g pkgm-build
 ```
 
 ### Run
