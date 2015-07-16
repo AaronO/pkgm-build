@@ -21,6 +21,7 @@
   "author": "Aaron O'Mullan <aaron.omullan@gmail.com>",
   "license": "Apache 2",
   "dependencies": {
+    "codebox": "1.0.0-alpha.5",
     "pkgm": "^3.3.0"
   }
 }
